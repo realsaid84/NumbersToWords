@@ -36,9 +36,8 @@ The application is developed, compiled and tested with Java8.
 
 ```
 mvn clean package
-
-This cleans and compiles the project then packages the jar file NumbersToWords/target/numberstowords-1.0-SNAPSHOT.jar
-
 ```
+ > This cleans and compiles the project then packages the jar file NumbersToWords/target/numberstowords-1.0-SNAPSHOT.jar  
+
 - Import the jar file into the server side application library build path and it will be ready for use.
 

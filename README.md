@@ -32,12 +32,13 @@ The application is developed, compiled and tested with Java8.
 
 
 # Instructions
-1. Build the project with maven :
+ - Build the project with maven :
 
 ```
 mvn clean package
-```
+
 This cleans and compiles the project then packages the jar file NumbersToWords/target/numberstowords-1.0-SNAPSHOT.jar
 
-2. Import the jar file into the server side application library build path and it will be ready for use.
+```
+- Import the jar file into the server side application library build path and it will be ready for use.
 
